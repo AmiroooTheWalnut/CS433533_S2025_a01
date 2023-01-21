@@ -1,6 +1,6 @@
 Author: {FirstName LastName} [{UA Email}]  
 Course: [433 or 533 ?]  
-Date: Jan. [18], 2022
+Date: Jan. [18], 2023
 
 **PLEASE UPDATE THIS README TO INCLUDE:**
 * a text description of how to run your program, 
@@ -16,6 +16,7 @@ Description:
 Included files (**PLEASE ADD/UPDATE THIS LIST**):
 * index.html    -- a sample html file with a canvas
 * a01.js        -- a sample javascript file for functionality with the image uploading, and a method to parse PPM images
+* Math.js		-- some math functions that you can use and extend yourself
 * bunny.ppm     -- a test image
 
 
