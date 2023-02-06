@@ -81,8 +81,8 @@ function parsePPM(file_data){
         bytes[i] = raw_data.charCodeAt(i);
     }
     // update width and height of canvas
-    document.getElementById("canvas").setAttribute("width", window.innerWidth);
-    document.getElementById("canvas").setAttribute("height", window.innerHeight);
+    document.getElementById("canvas").setAttribute("width", width);
+    document.getElementById("canvas").setAttribute("height", height);
     // create ImageData object
     var image_data = ctx.createImageData(width, height);
     // fill ImageData
