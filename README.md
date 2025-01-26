@@ -1,6 +1,6 @@
 Author: {FirstName LastName} [{UA Email}]  
-Course: [433 or 533 ?]  
-Date: Jan. [18], 2023
+Course: Undergrad 433
+Date: [Month]. [Day], 2025
 
 **PLEASE UPDATE THIS README TO INCLUDE:**
 * a text description of how to run your program, 
